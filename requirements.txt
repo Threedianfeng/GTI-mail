@@ -1,0 +1,6 @@
+# 运行时依赖
+# 本项目仅使用 Python 标准库（os、threading、tkinter），无需额外 pip 包
+# 要求 Python 3.8+
+
+# 打包依赖（仅打包时需要）
+pyinstaller>=6.0
